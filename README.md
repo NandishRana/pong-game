@@ -22,8 +22,8 @@ A classic Pong Game implemented using the `turtle` module in Python. The game fe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PongGame.git
-   cd PongGame
+   git clone https://github.com/NandishRana/pong-game.git
+   cd pong-game
    ```
 
 2. **Run Game:**
